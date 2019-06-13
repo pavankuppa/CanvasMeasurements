@@ -1,0 +1,11 @@
+{
+  "name": "canvas-measurements",
+  "version": "1.0.0",
+  "description": "Draw measurements in canvas",
+  "main": "Measurement.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Pavan Kuppa",
+  "license": "MIT"
+}
